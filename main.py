@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 from aiogram.types import ReplyKeyboardRemove, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
-API_TOKEN = '1143625866:AAG7kyt1d2FZQoSlXWAXfje1TAkGg0TriCM'
+API_TOKEN = '*******'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
